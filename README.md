@@ -5,11 +5,11 @@ Making it easy to create image processing packages in Python
 
 **Description** 
 The package package_name is used to:
-	Processing:
+	* Processing:
 		- Histogram matching 
 		- Structural similarity
 		- Resize image
-	Utils:
+	* Utils:
 		- Read image
 		- Save image
 		- Plot image
@@ -17,7 +17,7 @@ The package package_name is used to:
 		- Plot histogram
 
 **How the package should be built**
-Would you like to know more, [click here](https://setuptools.pypa.io/en/latest/setuptools.html).
+* Would you like to know more, [click here](https://setuptools.pypa.io/en/latest/setuptools.html).
 
 ```pip
 python -m pip install --upgrade pip
