@@ -1,7 +1,7 @@
 # dio-project-procimgpython
 Making it easy to create image processing packages in Python
 
-# package_name
+# image_processing_svimg
 
 **Description** 
 * The package image_processing_svimg is used to:
