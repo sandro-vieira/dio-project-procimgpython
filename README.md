@@ -4,7 +4,7 @@ Making it easy to create image processing packages in Python
 # package_name
 
 **Description** 
-* The package package_name is used to:
+* The package image_processing_svimg is used to:
 	* Processing:
 		- Histogram matching 
 		- Structural similarity
